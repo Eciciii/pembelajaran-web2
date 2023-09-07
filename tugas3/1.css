@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(44, 99, 42, 0.1);
+  border: 2px solid rgb(62, 139, 62);
+}
+
+h1 {
+  color: #12e024;
+  font-size: 4em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-bottom: 10px dotted #12e024;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+.job-title {
+  color: #709960;
+  font-weight: bold;
+}
+
+.contact {
+  border: 5px solid rgb(116, 134, 111);
+}
+
+.email a {
+  color: #12e024;
+  text-decoration: none;
+}
+
+.ig a {
+  color: brown;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #1e2075;
+}
